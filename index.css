@@ -1,0 +1,67 @@
+.custom-container{
+
+}
+
+.custom-row{
+
+}
+
+.custom-input-wrapper{
+    background-color: grey;
+    height: 120px;
+    margin: 20px auto 0 auto;
+    width: 60%;
+  
+}
+
+.custom-input{
+
+   
+    
+}
+
+
+.main-header{
+
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+#dropzone{
+    /* background-color: rgb(170, 170, 170); */
+    border: 5px dashed grey;
+    height: 120px;
+    width: 420px;
+    display: block;
+    margin: 0 auto 0 auto;
+    
+}
+
+.dropzone-txt{
+    position: relative;
+    left: 30%;
+    top: 40%;
+
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.text{
+    width: 60%;
+    margin: 0 auto 0 auto;
+    background-color: #e2e2e2;
+    color: black;
+    padding: 3px 15px 0 15px;
+   
+}
+
+.fileInfo{
+    width: 20%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #e2e2e2;
+}
+
